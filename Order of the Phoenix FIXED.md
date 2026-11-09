@@ -133,7 +133,7 @@ A planning outline for a fan-written alternate take on Book 5, continuing from *
 - Harry chases Bellatrix and tries to use the Cruciatus Curse. Voldemort arrives and duels Dumbledore in the Atrium.
 - Voldemort possesses Harry, but is driven out by Harry's grief and love for Sirius.
 - **CHANGE:** Harry also feels love for Hermione in that moment, which helps drive Voldemort out. It's the clearest sign that his relationship is a strength, not a weakness, although Harry can't see that yet.
-- Fudge sees Voldemort with his own eyes and finally admits he's back.
+- **CHANGE:** Fudge sees Voldemort with his own eyes, but instead of admitting he's back, he starts covering it up. Ministry witnesses are quietly Obliviated. This sets up Fudge's alliance with Voldemort in Book 6.
 
 ## Part 8: Aftermath
 
